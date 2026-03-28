@@ -89,6 +89,7 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 
 - [State-Pool](https://github.com/yezyilomo/state-pool) - 🌐 React state management library based on global variables and React hooks. **By [@yezyilomo](https://github.com/yezyilomo)**
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) - 🖥️ Swahili programming language. **By [@ibnsultan](https://github.com/ibnsultan)**
+- [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ) - 📸 An automated attendance management system using Python and Computer Vision to streamline record-keeping in Tanzanian institutions. **By [@jemmziray-tech](https://github.com/jemmziray-tech)**
 
 ## <a name="T"> </a>T
 
